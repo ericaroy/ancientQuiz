@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Quizzes</key>
+	<array>
+		<dict>
+			<key>quizName</key>
+			<string>Ancient Egypt</string>
+			<key>quizDescription</key>
+			<string>Test your knowledge of Ancient Egypt</string>
+			<key>quizImageName</key>
+			<string>egypt44.png</string>
+			<key>questions</key>
+			<array>
+				<dict>
+					<key>question</key>
+					<string>Sennefer was mayor of Thebes in..</string>
+					<key>answers</key>
+					<array>
+						<string>3400BC</string>
+						<string>1230BC</string>
+						<string>1420BC</string>
+						<string>1340BC</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Which Pharaoh ruled in Dynasty 25?</string>
+					<key>answers</key>
+					<array>
+						<string>Kashta</string>
+						<string>Tefnakhte I</string>
+						<string>Bakenranef</string>
+						<string>Ra</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Name the Pharaoh who united Both Upper and Lower Egypt</string>
+					<key>answers</key>
+					<array>
+						<string>Narmer</string>
+						<string>Taharqa</string>
+						<string>King Tut</string>
+						<string>Ahmose I</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>What is the Original name for the Greek name Osiris?</string>
+					<key>answers</key>
+					<array>
+						<string>Horus</string>
+						<string>Isis</string>
+						<string>Ausar</string>
+						<string>Thor</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The Battle of Mediggo was Led by what Pharaoh?</string>
+					<key>answers</key>
+					<array>
+						<string>Thutmose I</string>
+						<string>Tutankhamun</string>
+						<string>Thutmoses II</string>
+						<string>Thutmoses III</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The valley of _________</string>
+					<key>answers</key>
+					<array>
+						<string>Egypt and Rome</string>
+						<string>Kings</string>
+						<string>death</string>
+						<string>Pharaohs</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Name one Female Pharaoh</string>
+					<key>answers</key>
+					<array>
+						<string>Imani</string>
+						<string>Queen of Sheba</string>
+						<string>Hatshepsut</string>
+						<string>Tiny III</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Name of the Pharaoh who expelled the Hyksos from Ancient egypt?</string>
+					<key>answers</key>
+					<array>
+						<string>Queen Tiye</string>
+						<string>Menes</string>
+						<string>Solomon</string>
+						<string>Ahmose I</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>What were a scribe&apos;s tools?</string>
+					<key>answers</key>
+					<array>
+						<string>Pencil and Paper</string>
+						<string>Charcoal, Slate, Heating Tool</string>
+						<string>Ink Container, Reed Holder, Mixing Palette</string>
+						<string>Papyrus, Mixing Bowl, Charcoal</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Merikare ruled during the...</string>
+					<key>answers</key>
+					<array>
+						<string>1st Dynasty</string>
+						<string>18th Dynasty</string>
+						<string>25th Dynasty</string>
+						<string>10th Dynasty</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>What year did the first foreigners invade Egypt?</string>
+					<key>answers</key>
+					<array>
+						<string>15th Dynasty</string>
+						<string>18th Dynasty</string>
+						<string>14th Dynasty</string>
+						<string>10th Dynasty</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The Colchis were located in...</string>
+					<key>answers</key>
+					<array>
+						<string>Austria</string>
+						<string>Georgia</string>
+						<string>England</string>
+						<string>Syria</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Pharoah Sesostris III was of _____________ birth</string>
+					<key>answers</key>
+					<array>
+						<string>South African</string>
+						<string>Kushite</string>
+						<string>Libyan</string>
+						<string>Punt</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Mentuhotep II, was the first ruler of the.....</string>
+					<key>answers</key>
+					<array>
+						<string>First Kingdom</string>
+						<string>Late Kingdom</string>
+						<string>Middle Kingdom</string>
+						<string>4th Kingdom</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>2</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>quizName</key>
+			<string>Ancient Languages</string>
+			<key>quizDescription</key>
+			<string>How vast is your knowledge of African Languages?</string>
+			<key>quizImageName</key>
+			<string>user44.png</string>
+			<key>questions</key>
+			<array>
+				<dict>
+					<key>question</key>
+					<string>Select &quot;Thank You&quot; in Swahili</string>
+					<key>answers</key>
+					<array>
+						<string>Habari</string>
+						<string>Gracias</string>
+						<string>Asante</string>
+						<string>Hapana</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>What is the Hieroglphic(MDW NTR) word equivalent of God?</string>
+					<key>answers</key>
+					<array>
+						<string>God</string>
+						<string>NTR</string>
+						<string>Sun</string>
+						<string>None</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Translate this word into English: Ankh</string>
+					<key>answers</key>
+					<array>
+						<string>Peace</string>
+						<string>Prosperity</string>
+						<string>Africa</string>
+						<string>Life</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>What is the TWI equivalent of: &quot;How are you?&quot;</string>
+					<key>answers</key>
+					<array>
+						<string>Wo ho te sen?</string>
+						<string>Maadwo</string>
+						<string>Akwaaba</string>
+						<string>Wofiri hefa?</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Which language below is spoken in Ghana?</string>
+					<key>answers</key>
+					<array>
+						<string>Ata</string>
+						<string>Ga</string>
+						<string>Yoruba</string>
+						<string>Coptic</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Yoruba is spoken in...</string>
+					<key>answers</key>
+					<array>
+						<string>Egypt</string>
+						<string>Nigeria</string>
+						<string>Ethiopia</string>
+						<string>South Africa</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>What is the MDW NTR equivalent to Brother/Sister?</string>
+					<key>answers</key>
+					<array>
+						<string>MR.T/&apos;nh</string>
+						<string>Sa.T/San.T</string>
+						<string>SN/SN.T</string>
+						<string>imn/Ra</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>I Love You in Swahili is...</string>
+					<key>answers</key>
+					<array>
+						<string>Nakupenda</string>
+						<string>Nakukumba</string>
+						<string>Naietwa</string>
+						<string>Ni Nakukumba</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Alhamisi in Swahili means...</string>
+					<key>answers</key>
+					<array>
+						<string>Friday</string>
+						<string>Thank you very much</string>
+						<string>Help</string>
+						<string>Thursday</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The word for mother in Yoruba?</string>
+					<key>answers</key>
+					<array>
+						<string>Ma</string>
+						<string>Nswt</string>
+						<string>Iya</string>
+						<string>Mama</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The word for mother in Yoruba?</string>
+					<key>answers</key>
+					<array>
+						<string>Ma</string>
+						<string>Nswt</string>
+						<string>Iya</string>
+						<string>Mama</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>2</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>quizName</key>
+			<string>Ancient Tribes</string>
+			<key>quizDescription</key>
+			<string>Test your knowledge of the world&apos;s tribes</string>
+			<key>quizImageName</key>
+			<string>feather44.png</string>
+			<key>questions</key>
+			<array>
+				<dict>
+					<key>question</key>
+					<string>Define Autochthonous</string>
+					<key>answers</key>
+					<array>
+						<string>Alien</string>
+						<string>Butterfly Species</string>
+						<string>Indigenous</string>
+						<string>Foreigner</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The Mursi Tribe is located....</string>
+					<key>answers</key>
+					<array>
+						<string>Ethiopia</string>
+						<string>France</string>
+						<string>Congo</string>
+						<string>Libya</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The San tribe speaks the ________ language</string>
+					<key>answers</key>
+					<array>
+						<string>Khosian</string>
+						<string>Nilo</string>
+						<string>Nilo-Saharan</string>
+						<string>Niger</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The Atakapa Indian&apos;s lived in....</string>
+					<key>answers</key>
+					<array>
+						<string>Oklahoma</string>
+						<string>Louisiana</string>
+						<string>North Dakota</string>
+						<string>Arkansas</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Nefertiti&apos;s elongated skull is similar to what tribe in Africa?</string>
+					<key>answers</key>
+					<array>
+						<string>Akan Tribe</string>
+						<string>Falasha Tribe</string>
+						<string>Bakaka Tribe</string>
+						<string>Mangbetu Tribe</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The Twa People are located in..</string>
+					<key>answers</key>
+					<array>
+						<string>Northern Africa</string>
+						<string>Central Great Lakes</string>
+						<string>Mauritania</string>
+						<string>Sudan</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The Tsonga People have a population of..</string>
+					<key>answers</key>
+					<array>
+						<string>500 thousand</string>
+						<string>4.6 million</string>
+						<string>1.3 million</string>
+						<string>20 thousand</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Who is the largest ethnic group in West Africa?</string>
+					<key>answers</key>
+					<array>
+						<string>Hausa</string>
+						<string>Mande</string>
+						<string>Sahelian</string>
+						<string>Carib</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The Venda People migrated from...</string>
+					<key>answers</key>
+					<array>
+						<string>West Africa</string>
+						<string>SouthCentral Africa</string>
+						<string>NorthWest Africa</string>
+						<string>East African Rift</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Who are the Metis people?</string>
+					<key>answers</key>
+					<array>
+						<string>Aboriginal Americans</string>
+						<string>Aboriginal Canadians</string>
+						<string>Aboriginal Brazilians</string>
+						<string>Aboriginal Africans</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>quizName</key>
+			<string>Ancient Kingdoms</string>
+			<key>quizDescription</key>
+			<string>Can you guess which empires ruled the world and their borders?</string>
+			<key>quizImageName</key>
+			<string>earth44.png</string>
+			<key>questions</key>
+			<array>
+				<dict>
+					<key>question</key>
+					<string>What is the modern name for Absynnia?</string>
+					<key>answers</key>
+					<array>
+						<string>Sierra Leone</string>
+						<string>Kenya</string>
+						<string>Ethiopia</string>
+						<string>Egypt</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The kingdom of Axum was also the...</string>
+					<key>answers</key>
+					<array>
+						<string>Dogon Kingdom</string>
+						<string>Askumite Kingdom</string>
+						<string>Italian Kingdom</string>
+						<string>Libyan Kingdom</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Ancient Egypt and the Axum Kingdom have this symbol in common...</string>
+					<key>answers</key>
+					<array>
+						<string>Obelisk</string>
+						<string>Lion</string>
+						<string>Reed Plant</string>
+						<string>Chariot</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The Olmecs were located in...</string>
+					<key>answers</key>
+					<array>
+						<string>Colorado</string>
+						<string>West America</string>
+						<string>Mexico</string>
+						<string>Ghana</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The Olmec civilization dates were..</string>
+					<key>answers</key>
+					<array>
+						<string>1400-1200BCE</string>
+						<string>400BCE-200BCE</string>
+						<string>1998-2007BCE</string>
+						<string>1600-1200BCE</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The Nok culture was located in..</string>
+					<key>answers</key>
+					<array>
+						<string>Congo</string>
+						<string>Egypt</string>
+						<string>South Africa</string>
+						<string>Nigeria</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Which Sagon Ruled Assyria in 722BCE?</string>
+					<key>answers</key>
+					<array>
+						<string>IV</string>
+						<string>III</string>
+						<string>V</string>
+						<string>II</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>3</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>Great Zimbabwe was founded in..</string>
+					<key>answers</key>
+					<array>
+						<string>11th Century</string>
+						<string>14 Century</string>
+						<string>20th Century</string>
+						<string>5th Century</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>The Mali Empire dates were</string>
+					<key>answers</key>
+					<array>
+						<string>1500AD-1900AD</string>
+						<string>1000AD-1200AD</string>
+						<string>1200AD-1600AD</string>
+						<string>1190AD-1590AD</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>2</integer>
+				</dict>
+				<dict>
+					<key>question</key>
+					<string>When did the Muslim empire invade Egypt?</string>
+					<key>answers</key>
+					<array>
+						<string>abt 1500 BCE</string>
+						<string>abt 695 AD</string>
+						<string>abt 900 AD</string>
+						<string>abt 849 BCE</string>
+					</array>
+					<key>correctAnswerIndex</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
